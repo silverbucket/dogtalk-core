@@ -1,0 +1,3 @@
+[submodule "deps/angular-shared"]
+	path = deps/angular-shared
+	url = git@github.com:silverbucket/angular-shared.git
