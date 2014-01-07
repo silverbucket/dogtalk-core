@@ -1,3 +1,6 @@
 [submodule "deps/angular-shared"]
 	path = deps/angular-shared
 	url = git@github.com:silverbucket/angular-shared.git
+[submodule "deps/sockethub-client"]
+	path = deps/sockethub-client
+	url = git@github.com:sockethub/sockethub-client.git
